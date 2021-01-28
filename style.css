@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(157, 255, 222);
+    color: rgb(255, 105, 180);
+}
+
+.heading {
+    width: 100%;
+    top: 0px;
+    box-shadow: 15px 15px 20px rgb(158, 73, 255);
+    font-size: 40px;
+    background-color: rgb(214, 170, 255);
+
+}
+
+
+
+#camera {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+}
+
+#Person_names,
+#Person_accuracy {
+    color: palevioletred ;
+}
+
